@@ -43,5 +43,4 @@ Contribua com o nosso projeto seguindo os seguintes passos abaixo:
 
 1. `git clone https://github.com/luis-domingues/stream-project.git`
 2. `git checkout -b feature/NAME`
-3. Para utilização da biblioteca FONTAWESOME, ponha dentro da tag `head` do arquivo o seguite código `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />`
 4. Abra um Pull Request explicando o problema resolvido ou recurso realizado, se existir, anexe a captura de tela das modificações visuais e aguarde a revisão!
